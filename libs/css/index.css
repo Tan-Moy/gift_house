@@ -1,0 +1,11 @@
+body {
+  background-color: #2D2D2D;
+  overflow-x: hidden; }
+
+#slideShow {
+  /* max-height: 100*/ }
+  #slideShow img {
+    width: 100vw;
+    max-height: auto; }
+
+/*# sourceMappingURL=index.css.map */
